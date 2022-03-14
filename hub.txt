@@ -1,0 +1,5 @@
+hub mmu_cen8h1v1
+shortLabel mmu_cen8h1v1
+longLabel mmu_cen8h1v1
+genomesFile genomes.txt
+email  fedorrik1@gmail.com

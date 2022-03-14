@@ -1,0 +1,3 @@
+genome mmu_cen8h1v1
+trackDb mmu_cen8h1v1/trackDb.txt
+twoBitPath mmu_cen8h1v1/mmu_cen8h1v1.2bit
