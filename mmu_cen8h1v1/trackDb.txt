@@ -1,5 +1,5 @@
 track OWM_AS-SF
 type bigBed
-bigDataUrl https://github.com/fedorrik/hub_mmu_cen8h1v1/mmu_cen8h1v1/OWM_AS-SF.bb
+bigDataUrl https://github.com/fedorrik/hub_mmu_cen8h1v1/blob/main/mmu_cen8h1v1/OWM_AS-SF.bb
 shortLabel OWM_AS-SF
 longLabel ASat SF track of Old World Monkey (macaca mmu_cen8h1v1)
